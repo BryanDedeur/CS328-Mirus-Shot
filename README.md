@@ -18,7 +18,7 @@ The theme is surreal, wacky and unpredictable.
 
 ## Architecture
 
-![Alt](images/architecture.svg)
+![Alt](images/mirus-shot-architecture.svg)
 
 ## Contributors
 - Bryan Dedeurwaerder (project manager)    

@@ -20,6 +20,12 @@ The theme is surreal, wacky and unpredictable.
 
 ![Alt](images/mirus-shot-architecture.svg)
 
+## Concept Drawings
+![Alt](images/space-level.jpg)
+![Alt](images/late-to-work-level.jpg)
+![Alt](images/special-delivery-level.jpg)
+![Alt](images/robber-level.jpg)
+
 ## Contributors
 - Bryan Dedeurwaerder (project manager)    
 - Taiga Miyano (gameplay programmer)  

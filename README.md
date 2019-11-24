@@ -16,10 +16,6 @@ The theme is surreal, wacky and unpredictable.
 - Map: Hybrid  
 - No. of Levels: 5
 
-## Architecture
-
-![Alt](images/mirus-shot-architecture.svg)
-
 ## Concept Drawings
 ![Alt](images/space-level.jpg)
 ![Alt](images/late-to-work-level.jpg)
